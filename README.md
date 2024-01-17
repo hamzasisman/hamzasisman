@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3>Connect with me:</h3>
 <p>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="your link" target="blank"><img src="https://img.shields.io/badge/Web Site-white?style=for-the-badge&logo=internet&logoColor=black" alt="LinkedIn Badge"/></a>
+  <a href="your link" target="blank"><img src="https://img.shields.io/badge/Web Site-white?style=for-the-badge&logo=blog&logoColor=black" alt="LinkedIn Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/></a>
