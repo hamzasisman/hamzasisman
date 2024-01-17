@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="Coding" width="400" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
+<img alt="Coding" width="400" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="your link" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="your link" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
