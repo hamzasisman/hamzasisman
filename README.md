@@ -19,6 +19,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+![hamzasisman's Stats](https://github-readme-stats.vercel.app/api?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![hamzasisman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&theme=vue-dark&hide_border=true)
+![hamzasisman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <h3>Connect with me:</h3>
 <p>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
