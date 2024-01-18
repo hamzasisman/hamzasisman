@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Coding" width="800"  src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
-<div>
-  ![hamzasisman's Stats](https://github-readme-stats.vercel.app/api?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
-![hamzasisman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&theme=vue-dark&hide_border=true)
-![hamzasisman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!-- https://gh-stats-gen.vercel.app/ -->
 
 <h3>Connect with me:</h3>
