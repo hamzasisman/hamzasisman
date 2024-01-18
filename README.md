@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <!-- https://gh-stats-gen.vercel.app/ -->
 
-<div align="center">
+<div width="501" align="center">
   <h3>Connect with me:</h3>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/WebSite-white?style=for-the-badge&logo=wordpress&logoColor=black" alt="Web site Badge"/></a>
