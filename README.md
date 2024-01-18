@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </div>
 <!-- https://gh-stats-gen.vercel.app/ -->
 
-<h3>Connect with me:</h3>
-<p>
+<div align="center">
+  <h3>Connect with me:</h3>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/WebSite-white?style=for-the-badge&logo=wordpress&logoColor=black" alt="Web site Badge"/></a>
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
   <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> 
   <a href="your link" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>-->
-</p>
+</div>
