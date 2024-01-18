@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-![hamzasisman's Stats](https://github-readme-stats.vercel.app/api?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div>
+  ![hamzasisman's Stats](https://github-readme-stats.vercel.app/api?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
 ![hamzasisman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&theme=vue-dark&hide_border=true)
 ![hamzasisman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- https://gh-stats-gen.vercel.app/ -->
 
 <h3>Connect with me:</h3>
 <p>
