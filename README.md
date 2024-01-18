@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+</div>
+<div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&amp;theme=vue-dark&amp;hide_border=true" alt="github streak">
+</div>
+<div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 <!-- https://gh-stats-gen.vercel.app/ -->
