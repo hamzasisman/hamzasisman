@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="center" alt="Coding" width="800"  src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 -->
 <div align="center">
-  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100">
+  <iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100" height="480" frameBorder="0"></iframe>
 </div>
 
 <div align="center">
