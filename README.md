@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Coding" width="800"  src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1">
 -->
-<div align="center">
+<!-- <div align="center">
   <iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100" height="480" frameBorder="0"></iframe>
 </div>
+-->
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
