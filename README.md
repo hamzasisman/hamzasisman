@@ -34,13 +34,9 @@ modern, performanslı ve kullanıcı dostu web arayüzleri geliştiriyorum.
 
 <div align="center">
 
-<img width="470" height="200" src="https://github-stats-extended.vercel.app/api?username=hamzasisman&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=2d1b4e&title_color=b39ddb&icon_color=9d4edd&text_color=e0d5f5&border_radius=10" alt="Hamza's GitHub Stats"/>
-<img width="470" height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&hide_border=true&langs_count=6&bg_color=2d1b4e&title_color=b39ddb&text_color=e0d5f5&border_radius=10" alt="Top Languages"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api?username=hamzasisman&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=2d1b4e&title_color=b39ddb&icon_color=9d4edd&text_color=e0d5f5&border_radius=10&width=470" alt="Hamza's GitHub Stats"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&hide_border=true&langs_count=6&bg_color=2d1b4e&title_color=b39ddb&text_color=e0d5f5&border_radius=10&card_width=470" alt="Top Languages"/>
 
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=hamzasisman&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br/>
