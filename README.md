@@ -10,19 +10,21 @@ modern, performanslı ve kullanıcı dostu web arayüzleri geliştiriyorum.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📍-İstanbul,%20Türkiye-8A2BE2?style=for-the-badge&labelColor=1a1b27" alt="Location"/>
-  <img src="https://img.shields.io/badge/📧-hamza.ssmnnn@gmail.com-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Email"/>
+  <img src="https://img.shields.io/badge/📍-İstanbul,%20Türkiye-8A2BE2?style=for-the-badge&labelColor=2d1b4e" alt="Location"/>
+  <img src="https://img.shields.io/badge/📧-hamza.ssmnnn@gmail.com-764ba2?style=for-the-badge&labelColor=2d1b4e" alt="Email"/>
 </p>
 
 </div>
 
 <br/>
 
+<!-- Hızlı istatistik şeridi -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/30+-Repositories-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories"/>
-<img src="https://img.shields.io/github/followers/hamzasisman?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=orange&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/badge/Front--End-Developer-00d4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27" alt="Role"/>
+<img src="https://img.shields.io/badge/30+-Repositories-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e" alt="Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzasisman&label=Followers&query=%24.followers&style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e&color=764ba2" alt="Followers"/>
+<img src="https://img.shields.io/badge/20+-Forks-764ba2?style=for-the-badge&logo=git&logoColor=white&labelColor=2d1b4e" alt="Forks"/>
+<img src="https://img.shields.io/badge/10+-Contributors-9d4edd?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e" alt="Contributors"/>
 
 </div>
 
@@ -32,13 +34,13 @@ modern, performanslı ve kullanıcı dostu web arayüzleri geliştiriyorum.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" alt="Hamza's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&bg_color=2d1b4e&title_color=b39ddb&icon_color=9d4edd&text_color=e0d5f5&border_radius=10" alt="Hamza's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&hide_border=true&langs_count=8&bg_color=2d1b4e&title_color=b39ddb&text_color=e0d5f5&border_radius=10" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasisman&hide_border=true&background=2d1b4e&ring=9d4edd&fire=764ba2&currStreakLabel=b39ddb&sideLabels=e0d5f5&currStreakNum=e0d5f5&sideNums=e0d5f5&dates=8b7aa8&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <br/>
