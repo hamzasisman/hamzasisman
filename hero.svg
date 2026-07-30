@@ -1,0 +1,72 @@
+<svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0e1f"/>
+      <stop offset="100%" stop-color="#151233"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b7bff"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#241f4a"/>
+      <stop offset="100%" stop-color="#161029"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="300" rx="18" fill="url(#bgGrad)"/>
+
+  <!-- Left content -->
+  <text x="50" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Hi there 👋</text>
+  <text x="50" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#nameGrad)">I'm Hamza Şişman</text>
+  <text x="50" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#b9b4d6">Front End Developer</text>
+
+  <text x="50" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">Yüksek trafikli haber portalları ve çok dilli eğitim platformları için</text>
+  <text x="50" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">modern, performanslı ve kullanıcı dostu web arayüzleri geliştiriyorum.</text>
+
+  <!-- Location pill -->
+  <rect x="50" y="218" width="200" height="34" rx="17" fill="#2a2158"/>
+  <text x="68" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d9d4f5">📍 İstanbul, Türkiye</text>
+
+  <!-- Email pill -->
+  <rect x="262" y="218" width="270" height="34" rx="17" fill="#2a2158"/>
+  <text x="280" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d9d4f5">📧 hamza.ssmnnn@gmail.com</text>
+
+  <!-- Right illustration: abstract dev desk -->
+  <g transform="translate(600,40)">
+    <rect x="0" y="0" width="360" height="220" rx="16" fill="#181233" opacity="0.6"/>
+    <!-- monitor 1 -->
+    <rect x="30" y="30" width="150" height="100" rx="6" fill="url(#screenGrad)" stroke="#3d3470" stroke-width="1.5"/>
+    <rect x="95" y="130" width="20" height="14" fill="#3d3470"/>
+    <rect x="75" y="144" width="60" height="8" rx="4" fill="#3d3470"/>
+    <line x1="42" y1="48" x2="120" y2="48" stroke="#f7d774" stroke-width="3" stroke-linecap="round"/>
+    <line x1="42" y1="62" x2="150" y2="62" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round"/>
+    <line x1="42" y1="76" x2="100" y2="76" stroke="#c084fc" stroke-width="3" stroke-linecap="round"/>
+    <line x1="42" y1="90" x2="135" y2="90" stroke="#86efac" stroke-width="3" stroke-linecap="round"/>
+    <line x1="42" y1="104" x2="110" y2="104" stroke="#f7d774" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- monitor 2 (angled feel via second smaller screen) -->
+    <rect x="200" y="55" width="120" height="80" rx="6" fill="url(#screenGrad)" stroke="#3d3470" stroke-width="1.5"/>
+    <line x1="210" y1="72" x2="270" y2="72" stroke="#7dd3fc" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="210" y1="84" x2="300" y2="84" stroke="#f7d774" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="210" y1="96" x2="260" y2="96" stroke="#86efac" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="210" y1="108" x2="290" y2="108" stroke="#c084fc" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- desk lamp -->
+    <circle cx="300" cy="35" r="10" fill="#f9c74f"/>
+    <line x1="300" y1="45" x2="285" y2="70" stroke="#8b7bff" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- mug -->
+    <rect x="30" y="150" width="26" height="26" rx="4" fill="#c084fc"/>
+    <path d="M56 156 q10 0 10 10 q0 10 -10 10" stroke="#c084fc" stroke-width="3" fill="none"/>
+
+    <!-- plant -->
+    <rect x="310" y="160" width="22" height="20" rx="3" fill="#4ade80"/>
+    <circle cx="321" cy="150" r="10" fill="#22c55e"/>
+    <circle cx="312" cy="155" r="7" fill="#22c55e"/>
+    <circle cx="330" cy="155" r="7" fill="#22c55e"/>
+
+    <!-- keyboard -->
+    <rect x="70" y="150" width="110" height="18" rx="4" fill="#241f4a" stroke="#3d3470"/>
+  </g>
+</svg>
