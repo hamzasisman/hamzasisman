@@ -6,19 +6,6 @@
 
 <br/>
 
-
-<!-- Hızlı istatistik şeridi -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/30+-Repositories-667eea?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e" alt="Repositories"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzasisman&label=Followers&query=%24.followers&style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e&color=764ba2" alt="Followers"/>
-<img src="https://img.shields.io/badge/20+-Forks-764ba2?style=for-the-badge&logo=git&logoColor=white&labelColor=2d1b4e" alt="Forks"/>
-<img src="https://img.shields.io/badge/10+-Contributors-9d4edd?style=for-the-badge&logo=github&logoColor=white&labelColor=2d1b4e" alt="Contributors"/>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
