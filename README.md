@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hamza Şişman</h1>
+<div align="center">
 
-<h3 align="center">
-Front End Developer passionate about building fast, scalable and user-friendly web applications.
-</h3>
+<img src="./hero.svg" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/hamzasisman">
-    <img src="https://komarev.com/ghpvc/?username=hamzasisman&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -20,7 +14,7 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 
 </div>
 
----
+<br/>
 
 # 🚀 Tech Stack
 
@@ -86,9 +80,13 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 </tr>
 </table>
 
----
+<br/>
 
-# 💼 Experience
+## 💼 Experience
+
+<table align="center">
+<tr>
+<td>
 
 ### Front End Developer • Dijital Varlıklar
 **Feb 2026 – Present** • 📍 Istanbul, Türkiye
@@ -98,7 +96,10 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 - Optimized SEO, Core Web Vitals and page performance
 - Improved First Contentful Paint (FCP) and overall user experience
 
----
+</td>
+</tr>
+<tr>
+<td>
 
 ### Front End Developer • Konuşarak Öğren
 
@@ -110,7 +111,9 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 - Worked closely with UI/UX designers and marketing teams
 - Focused on performance, maintainability and responsive design
 
----
+</td>
+</tr>
+</table>
 
 # 🛠 Featured Projects
 
@@ -120,8 +123,6 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 | 🌍 **Language Learning Platform** | Multilingual web application | React, Tailwind CSS, RESTful APIs |
 | 📊 **Internal CRM System** | Internal management dashboard | React, Redux, Tailwind CSS |
 | 📱 **Language Learning Mobile App** | Cross-platform mobile application | React Native |
-
----
 
 # 🎓 Education
 
@@ -133,38 +134,35 @@ Electrical & Electronics Engineering
 
 **2011 – 2016**
 
----
+## ⚡ Hobbies
 
-# ⚡ Interests
+♟️ Chess &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; 🌱 Hydroponics &nbsp;·&nbsp; 🔋 Renewable Energy
 
-♟ Chess
+<br/>
 
-📷 Photography
+## 🌐 Connect with Me
 
-🌱 Hydroponics
+<div align="center">
 
-🔋 Renewable Energy
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="mailto:hamza.ssmnnn@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/hamzasisman/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/hamza_sisman" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://discord.com/users/956803845655261184" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
 
-&nbsp;&nbsp;
+</div>
 
-<a href="https://github.com/hamzasisman">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+<br/>
 
-&nbsp;&nbsp;
+<div align="center">
+<i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
+</div>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
