@@ -16,6 +16,16 @@
 
 <br/>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=0d1117&color=c084fc&line=8b7bff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
+
 # 🚀 Tech Stack
 
 <table align="center">
@@ -60,16 +70,6 @@
 </p>
 
 </td>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=0d1117&color=c084fc&line=8b7bff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
 
 <td align="center">
 
