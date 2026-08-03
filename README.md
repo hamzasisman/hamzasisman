@@ -14,10 +14,11 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="./stats-langs.svg" width="100%"/>
+
+</div>
 
 ---
 
