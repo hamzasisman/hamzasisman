@@ -64,9 +64,6 @@ Front End Developer passionate about building fast, scalable and user-friendly w
 <img src="https://skillicons.dev/icons?i=cs" height="42"/>
 </p>
 
-ASP.NET Core MVC  
-RESTful APIs
-
 </td>
 
 <td align="center">
