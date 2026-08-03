@@ -16,35 +16,32 @@
 
 <br/>
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <table align="center">
 <tr>
-
-<td align="center" width="50%">
+<td align="center">
 
 ### Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,react,js,ts,redux,html,css" />
-</p>
-
-<p align="center">
-  <sub>React &nbsp;•&nbsp; React Native &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Redux &nbsp;•&nbsp; HTML5 &nbsp;•&nbsp; CSS3</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="42"/>
+<img src="https://skillicons.dev/icons?i=js" height="42"/>
+<img src="https://skillicons.dev/icons?i=ts" height="42"/>
+<img src="https://skillicons.dev/icons?i=html" height="42"/>
+<img src="https://skillicons.dev/icons?i=css" height="42"/>
 </p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 
 ### Styling
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
-</p>
-
-<p align="center">
-  <sub>Tailwind CSS &nbsp;•&nbsp; Bootstrap &nbsp;•&nbsp; SCSS</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
+<img src="https://skillicons.dev/icons?i=sass" height="42"/>
 </p>
 
 </td>
@@ -57,26 +54,25 @@
 
 ### Backend & APIs
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,cpp" />
-</p>
-
-<p align="center">
-  <sub>.NET &nbsp;•&nbsp; C# &nbsp;•&nbsp; Python &nbsp;•&nbsp; C++</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" height="42"/>
+<img src="https://skillicons.dev/icons?i=cs" height="42"/>
 </p>
 
 </td>
 
 <td align="center">
 
-### Tools
+### Tools & Others
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
-</p>
-
-<p align="center">
-  <sub>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code &nbsp;•&nbsp; Visual Studio &nbsp;•&nbsp; Figma</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
+<img src="https://skillicons.dev/icons?i=figma" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
 </p>
 
 </td>
