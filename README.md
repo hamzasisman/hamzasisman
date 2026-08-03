@@ -16,104 +16,113 @@
 
 <br/>
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td width="25%" valign="top">
+
+<td align="center" width="50%">
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react" width="42"><br>
+<img src="https://skillicons.dev/icons?i=react" height="42"/><br>
 <sub>React</sub>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="42"><br>
-<sub>TypeScript</sub>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js" width="42"><br>
+<img src="https://skillicons.dev/icons?i=js" height="42"/><br>
 <sub>JavaScript</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=ts" height="42"/><br>
+<sub>TypeScript</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=html" height="42"/><br>
+<sub>HTML5</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=css" height="42"/><br>
+<sub>CSS3</sub>
 </p>
 
 </td>
 
-<td width="25%" valign="top">
+<td align="center" width="50%">
 
 ### Styling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="42"><br>
+<img src="https://skillicons.dev/icons?i=tailwind" height="42"/><br>
 <sub>Tailwind CSS</sub>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=scss" width="42"><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/><br>
+<sub>Bootstrap</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=sass" height="42"/><br>
 <sub>SCSS</sub>
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=css" width="42"><br>
-<sub>CSS3</sub>
-</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### Backend & APIs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html" width="42"><br>
-<sub>HTML5</sub>
+<img src="https://skillicons.dev/icons?i=dotnet" height="42"/><br>
+<sub>.NET</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=cs" height="42"/><br>
+<sub>C#</sub>
 </p>
 
 </td>
 
-<td width="25%" valign="top">
-
-### State Management
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=redux" width="42"><br>
-<sub>Redux</sub>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="42"><br>
-<sub>React Query</sub>
-</p>
-
-<p align="center">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="42"><br>
-<sub>Context API</sub>
-</p>
-
-</td>
-
-<td width="25%" valign="top">
+<td align="center">
 
 ### Tools & Others
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git" width="42"><br>
+<img src="https://skillicons.dev/icons?i=git" height="42"/><br>
 <sub>Git</sub>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github" width="42"><br>
+<img src="https://skillicons.dev/icons?i=github" height="42"/><br>
 <sub>GitHub</sub>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="42"><br>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/><br>
 <sub>VS Code</sub>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="42"><br>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/><br>
+<sub>Visual Studio</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=figma" height="42"/><br>
 <sub>Figma</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=python" height="42"/><br>
+<sub>Python</sub>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/><br>
+<sub>C++</sub>
 </p>
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
