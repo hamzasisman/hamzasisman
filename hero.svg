@@ -16,18 +16,6 @@
 
   <rect width="1000" height="300" rx="18" fill="url(#bgGrad)"/>
 
-  <radialGradient id="heroGlowLeft" cx="0%" cy="0%" r="85%">
-      <stop offset="0%" stop-color="#8b7bff" stop-opacity="0.20"/>
-      <stop offset="60%" stop-color="#8b7bff" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#8b7bff" stop-opacity="0"/>
-  </radialGradient>
-  
-  <radialGradient id="heroGlowRight" cx="100%" cy="0%" r="75%">
-      <stop offset="0%" stop-color="#667eea" stop-opacity="0.16"/>
-      <stop offset="70%" stop-color="#667eea" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#667eea" stop-opacity="0"/>
-  </radialGradient>
-
   <!-- Left content -->
   <text x="50" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Hi there 👋</text>
   <text x="50" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#nameGrad)">I'm Hamza Şişman</text>
