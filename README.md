@@ -1,97 +1,172 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hamza Şişman</h1>
 
-<img src="./hero.svg" width="100%"/>
+<h3 align="center">
+Front End Developer passionate about building fast, scalable and user-friendly web applications.
+</h3>
 
-</div>
+<p align="center">
+  <a href="https://github.com/hamzasisman">
+    <img src="https://komarev.com/ghpvc/?username=hamzasisman&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-<br/>
+---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzasisman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasisman&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="./stats-langs.svg" width="100%"/>
+---
 
-</div>
-
-<br/>
-
-## 🚀 Teknoloji Yığını
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,git,redux,py,cpp,figma&theme=dark" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-## 💼 Deneyim
+# 🚀 Tech Stack
 
 <table align="center">
 <tr>
-<td>
+<td align="center">
 
-**Front End Developer** · Dijital Varlıklar
-📅 *Şubat 2026 – Günümüz* · 📍 İstanbul
-- ASP.NET Core 8 MVC, Razor Views ve SCSS ile yüksek trafikli haber portalı modülleri
-- Bileşenleri modüler ViewComponent'lere dönüştürerek Clean Architecture uyumluluğu
-- Yüksek SEO ve hızlı FCP için performans optimizasyonu
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" height="42"/>
+<img src="https://skillicons.dev/icons?i=js" height="42"/>
+<img src="https://skillicons.dev/icons?i=ts" height="42"/>
+<img src="https://skillicons.dev/icons?i=html" height="42"/>
+<img src="https://skillicons.dev/icons?i=css" height="42"/>
+</p>
 
 </td>
+
+<td align="center">
+
+### Styling
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind" height="42"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/>
+<img src="https://skillicons.dev/icons?i=sass" height="42"/>
+</p>
+
+</td>
+
 </tr>
-<tr>
-<td>
 
-**Front End Developer** · Konuşarak Öğren
-📅 *Ekim 2021 – Ocak 2026* · 📍 İstanbul
-- 20+ yüksek dönüşümlü, responsive landing page geliştirme
-- Pazarlama ve tasarım ekipleriyle hızlı iterasyon
+<tr>
+
+<td align="center">
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" height="42"/>
+<img src="https://skillicons.dev/icons?i=cs" height="42"/>
+</p>
+
+ASP.NET Core MVC  
+RESTful APIs
 
 </td>
+
+<td align="center">
+
+### Tools & Others
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/>
+<img src="https://skillicons.dev/icons?i=figma" height="42"/>
+<img src="https://skillicons.dev/icons?i=python" height="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="42"/>
+</p>
+
+</td>
+
 </tr>
 </table>
 
-## 🛠️ Projeler
+---
 
-| Proje | Teknolojiler |
-|---|---|
-| 🗞️ **TGRT Haber Portalı** | ASP.NET Core MVC, C#, SCSS |
-| 🌍 **Çok Dilli Dil Eğitimi Web Uygulaması** | ReactJS, TailwindCSS, RESTful APIs |
-| 📊 **Dahili CRM Sistemi** | ReactJS, TailwindCSS |
-| 📱 **Dil Öğrenme Mobil Uygulaması** | React Native |
+# 💼 Experience
 
-## 🎓 Eğitim
+### Front End Developer • Dijital Varlıklar
+**Feb 2026 – Present** • 📍 Istanbul, Türkiye
 
-**İzmir Dokuz Eylül Üniversitesi** — Elektrik ve Elektronik Mühendisliği (Lisans) · 2011 – 2016
+- Developed high-traffic news portal modules using **ASP.NET Core 8 MVC**, **Razor Views**, and **SCSS**
+- Refactored UI components into reusable **ViewComponents** following **Clean Architecture**
+- Optimized SEO, Core Web Vitals and page performance
+- Improved First Contentful Paint (FCP) and overall user experience
 
-## ⚡ İlgi Alanları
+---
 
-♟️ Satranç &nbsp;·&nbsp; 📷 Fotoğrafçılık &nbsp;·&nbsp; 🌱 Topraksız Tarım &nbsp;·&nbsp; 🔋 Yenilenebilir Enerji
+### Front End Developer • Konuşarak Öğren
 
-<br/>
+**Oct 2021 – Jan 2026** • 📍 Istanbul, Türkiye
 
-## 🌐 Bağlantılar
+- Developed 20+ high-converting responsive landing pages
+- Built multilingual React applications
+- Integrated RESTful APIs
+- Worked closely with UI/UX designers and marketing teams
+- Focused on performance, maintainability and responsive design
 
-<div align="center">
+---
 
-<a href="mailto:hamza.ssmnnn@gmail.com">
-  <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+# 🛠 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🗞 **TGRT News Portal** | High traffic news website with SEO optimization | ASP.NET Core MVC, Razor Views, C#, SCSS |
+| 🌍 **Language Learning Platform** | Multilingual web application | React, Tailwind CSS, RESTful APIs |
+| 📊 **Internal CRM System** | Internal management dashboard | React, Redux, Tailwind CSS |
+| 📱 **Language Learning Mobile App** | Cross-platform mobile application | React Native |
+
+---
+
+# 🎓 Education
+
+### Dokuz Eylul University
+
+**Bachelor's Degree**
+
+Electrical & Electronics Engineering
+
+**2011 – 2016**
+
+---
+
+# ⚡ Interests
+
+♟ Chess
+
+📷 Photography
+
+🌱 Hydroponics
+
+🔋 Renewable Energy
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://www.linkedin.com/in/hamzasisman/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://twitter.com/hamza_sisman" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-<a href="https://discord.com/users/956803845655261184" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/hamzasisman">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-</div>
+&nbsp;&nbsp;
 
-<br/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
-<div align="center">
-<i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+</p>
