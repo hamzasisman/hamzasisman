@@ -82,39 +82,6 @@
 
 <br/>
 
-## 💼 Experience
-
-<table align="center">
-<tr>
-<td>
-
-### Front End Developer • Dijital Varlıklar
-**Feb 2026 – Present** • 📍 Istanbul, Türkiye
-
-- Developed high-traffic news portal modules using **ASP.NET Core 8 MVC**, **Razor Views**, and **SCSS**
-- Refactored UI components into reusable **ViewComponents** following **Clean Architecture**
-- Optimized SEO, Core Web Vitals and page performance
-- Improved First Contentful Paint (FCP) and overall user experience
-
-</td>
-</tr>
-<tr>
-<td>
-
-### Front End Developer • Konuşarak Öğren
-
-**Oct 2021 – Jan 2026** • 📍 Istanbul, Türkiye
-
-- Developed 20+ high-converting responsive landing pages
-- Built multilingual React applications
-- Integrated RESTful APIs
-- Worked closely with UI/UX designers and marketing teams
-- Focused on performance, maintainability and responsive design
-
-</td>
-</tr>
-</table>
-
 # 🛠 Featured Projects
 
 | Project | Description | Technologies |
@@ -123,20 +90,6 @@
 | 🌍 **Language Learning Platform** | Multilingual web application | React, Tailwind CSS, RESTful APIs |
 | 📊 **Internal CRM System** | Internal management dashboard | React, Redux, Tailwind CSS |
 | 📱 **Language Learning Mobile App** | Cross-platform mobile application | React Native |
-
-# 🎓 Education
-
-### Dokuz Eylul University
-
-**Bachelor's Degree**
-
-Electrical & Electronics Engineering
-
-**2011 – 2016**
-
-## ⚡ Hobbies
-
-♟️ Chess &nbsp;·&nbsp; 📷 Photography &nbsp;·&nbsp; 🌱 Hydroponics &nbsp;·&nbsp; 🔋 Renewable Energy
 
 <br/>
 
