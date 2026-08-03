@@ -82,14 +82,38 @@
 
 <br/>
 
-# 🛠 Featured Projects
+## 🛠 Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🗞 **TGRT News Portal** | High traffic news website with SEO optimization | ASP.NET Core MVC, Razor Views, C#, SCSS |
-| 🌍 **Language Learning Platform** | Multilingual web application | React, Tailwind CSS, RESTful APIs |
-| 📊 **Internal CRM System** | Internal management dashboard | React, Redux, Tailwind CSS |
-| 📱 **Language Learning Mobile App** | Cross-platform mobile application | React Native |
+### 🗞 TGRT News Portal
+
+High-traffic news platform built with ASP.NET Core MVC.
+
+**Tech Stack**
+
+ASP.NET Core MVC • Razor Views • SCSS • C#
+
+**Highlights**
+
+- SEO Optimization
+- Modular Architecture
+- Core Web Vitals
+- High Performance
+
+---
+
+### 🌍 Language Learning Platform
+
+Multilingual education platform built with React.
+
+**Tech Stack**
+
+React • Tailwind CSS • REST APIs
+
+**Highlights**
+
+- Responsive Design
+- Multi-language Support
+- Performance Optimization
 
 <br/>
 
