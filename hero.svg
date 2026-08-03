@@ -17,14 +17,16 @@
   <rect width="1000" height="300" rx="18" fill="url(#bgGrad)"/>
 
   <path
-    d="M0,0
-       C120,40 250,0 380,25
-       C520,55 650,10 780,30
-       C850,40 900,20 900,20
-       L1000,0
-       L0,0 Z"
-    fill="#7C5CFF"
-    opacity="0.18"/>
+      d="
+      M0,0
+      C140,18 260,40 390,28
+      C520,15 640,38 760,24
+      C860,12 940,34 1000,16
+      L1000,0
+      L0,0
+      Z"
+      fill="#7C5CFF"
+      opacity="0.16"/>
 
   <!-- Left content -->
   <text x="50" y="68" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Hi there 👋</text>
