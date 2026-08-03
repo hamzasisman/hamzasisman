@@ -82,41 +82,6 @@
 
 <br/>
 
-## 🛠 Featured Projects
-
-### 🗞 TGRT News Portal
-
-High-traffic news platform built with ASP.NET Core MVC.
-
-**Tech Stack**
-
-ASP.NET Core MVC • Razor Views • SCSS • C#
-
-**Highlights**
-
-- SEO Optimization
-- Modular Architecture
-- Core Web Vitals
-- High Performance
-
----
-
-### 🌍 Language Learning Platform
-
-Multilingual education platform built with React.
-
-**Tech Stack**
-
-React • Tailwind CSS • REST APIs
-
-**Highlights**
-
-- Responsive Design
-- Multi-language Support
-- Performance Optimization
-
-<br/>
-
 ## 🌐 Connect with Me
 
 <div align="center">
