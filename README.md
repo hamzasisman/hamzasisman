@@ -16,15 +16,33 @@
 
 <br/>
 
-## 📈 Contribution Activity
+## 📈 Coding Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=0d1117&color=c084fc&line=8b7bff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### Contribution Graph
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=0d1117&color=c084fc&line=8b7bff&point=ffffff&area=true&hide_border=true"
+width="100%" />
+
+</td>
+
+<td width="50%">
+
+### WakaTime
+
+<img
+src="https://github-readme-stats.vercel.app/api/wakatime?username=hamzasisman&theme=midnight-purple&hide_border=true&bg_color=0d1117"
+width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 # 🚀 Tech Stack
 
