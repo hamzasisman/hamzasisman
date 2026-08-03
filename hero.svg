@@ -21,12 +21,12 @@
   <text x="50" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#nameGrad)">I'm Hamza Şişman</text>
   <text x="50" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#b9b4d6">Front End Developer</text>
 
-  <text x="50" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">Yüksek trafikli haber portalları ve çok dilli eğitim platformları için</text>
-  <text x="50" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">modern, performanslı ve kullanıcı dostu web arayüzleri geliştiriyorum.</text>
+  <text x="50" y="172" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">Crafting modern, scalable and high-performance web experiences</text>
+  <text x="50" y="192" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#9d97c2">for high-traffic news portals and multilingual education platforms.</text>
 
   <!-- Location pill -->
   <rect x="50" y="218" width="200" height="34" rx="17" fill="#2a2158"/>
-  <text x="68" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d9d4f5">📍 İstanbul, Türkiye</text>
+  <text x="68" y="240" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d9d4f5">📍 İstanbul, Turkey</text>
 
   <!-- Email pill -->
   <rect x="262" y="218" width="270" height="34" rx="17" fill="#2a2158"/>
