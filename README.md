@@ -22,13 +22,19 @@
 <td align="center">
 
 ### Frontend
-<p><img src="https://skillicons.dev/icons?i=react" height="40"/><br/><sub>React</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="40"/><br/><sub>JavaScript</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" height="40"/><br/><sub>TypeScript</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html" height="40"/><br/><sub>HTML</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" height="40"/><br/><sub>CSS</sub></p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </td>
 <td align="center">
 
 ### Styling
-<p><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/><sub>Tailwind</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/><sub>Bootstrap</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sass" height="40"/><br/><sub>Sass</sub></p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 </td>
 </tr>
@@ -36,13 +42,20 @@
 <td align="center">
 
 ### Backend & APIs
-<p><img src="https://skillicons.dev/icons?i=dotnet" height="40"/><br/><sub>.NET</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cs" height="40"/><br/><sub>C#</sub></p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 </td>
 <td align="center">
 
 ### Tools & Others
-<p><img src="https://skillicons.dev/icons?i=git" height="40"/><br/><sub>Git</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="40"/><br/><sub>GitHub</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/><sub>VS Code</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=visualstudio" height="40"/><br/><sub>Visual Studio</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" height="40"/><br/><sub>Figma</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python" height="40"/><br/><sub>Python</sub>&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" height="40"/><br/><sub>C++</sub></p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </td>
 </tr>
