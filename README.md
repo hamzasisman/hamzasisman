@@ -22,23 +22,27 @@
 <td align="center">
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="42"/><br/><sub>React</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="42"/><br/><sub>JavaScript</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" height="42"/><br/><sub>TypeScript</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="42"/><br/><sub>HTML</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="42"/><br/><sub>CSS</sub>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br/><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br/><sub>CSS</sub></td>
+</tr>
+</table>
 
 </td>
 <td align="center">
 
 ### Styling
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind" height="42"/><br/><sub>Tailwind</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" height="42"/><br/><sub>Bootstrap</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sass" height="42"/><br/><sub>Sass</sub>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/><sub>Bootstrap</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sass" height="40"/><br/><sub>Sass</sub></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -46,24 +50,28 @@
 <td align="center">
 
 ### Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet" height="42"/><br/><sub>.NET</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cs" height="42"/><br/><sub>C#</sub>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" height="40"/><br/><sub>.NET</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" height="40"/><br/><sub>C#</sub></td>
+</tr>
+</table>
 
 </td>
 <td align="center">
 
 ### Tools & Others
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="42"/><br/><sub>Git</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="42"/><br/><sub>GitHub</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="42"/><br/><sub>VS Code</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=visualstudio" height="42"/><br/><sub>Visual Studio</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" height="42"/><br/><sub>Figma</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="42"/><br/><sub>Python</sub>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="42"/><br/><sub>C++</sub>
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br/><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br/><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/><br/><sub>Visual Studio</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" height="40"/><br/><sub>Figma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"/><br/><sub>C++</sub></td>
+</tr>
+</table>
 
 </td>
 </tr>
