@@ -12,6 +12,10 @@
 
 <img src="./stats-langs.svg" width="100%"/>
 
+<br/>
+
+<img src="https://ghchart.rshah.org/8b7bff/hamzasisman" alt="hamzasisman's Github Contribution Chart" width="100%"/>
+
 </div>
 
 <br/>
