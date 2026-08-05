@@ -12,9 +12,41 @@
 
 <img src="./stats-langs.svg" width="100%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=2d1b4e&color=c084fc&line=8b7bff&point=c084fc&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
 <br/>
 
-<img src="https://ghchart.rshah.org/8b7bff/hamzasisman" alt="hamzasisman's Github Contribution Chart" width="100%"/>
+## 📅 Commit & Katkı Geçmişi
+
+<div align="center">
+
+<details open>
+  <summary><b>🌌 3D Katkı Grafiği (Son Yıl)</b></summary>
+  <br/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
+</details>
+
+<details>
+  <summary><b>📅 2026</b></summary>
+  <br/>
+  <img src="./profile-3d-contrib/2026.svg" width="100%" alt="2026 Contributions"/>
+</details>
+
+<details>
+  <summary><b>📅 2025</b></summary>
+  <br/>
+  <img src="./profile-3d-contrib/2025.svg" width="100%" alt="2025 Contributions"/>
+</details>
+
+<details>
+  <summary><b>📅 2024</b></summary>
+  <br/>
+  <img src="./profile-3d-contrib/2024.svg" width="100%" alt="2024 Contributions"/>
+</details>
 
 </div>
 
