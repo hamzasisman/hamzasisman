@@ -13,6 +13,7 @@
 <img src="./stats-langs.svg" width="100%"/>
 
 <br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasisman&bg_color=2d1b4e&color=c084fc&line=8b7bff&point=c084fc&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
